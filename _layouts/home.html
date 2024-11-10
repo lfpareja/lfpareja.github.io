@@ -1,23 +1,18 @@
 ---
-layout: single
+layout: archive
 ---
 
+{{ content }}
 
----
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: " " }}</h3>
 
-**I'm a physical oceanographer excited about making novel observations to better understand ocean physics and high latitude processes.**
----
-I work at MIT Lincoln Laboratory.
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
 
-Read more about my academic research [here](https://nlbeaird.github.io/research/)
-
-My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
-
----
-
-During postdocs at Woods Hole Oceanographic Institution (with Fiamma Straneo) and Oregon State University (with Emily Shroyer), I've researched the interactions between the North Atlantic ocean and the Greenland ice sheet, and explored the role of turbulence in Alaska's Chukchi Sea.
-
----
-
-My Ph.D. thesis at the University of Washington (with Peter Rhines and Charlie Eriksen) focused on using autonomous vehicles to measure the overflow of dense water from the Nordic Seas into the subpolar North Atlantic.
-
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
