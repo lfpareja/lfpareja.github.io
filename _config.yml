@@ -316,7 +316,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: home
