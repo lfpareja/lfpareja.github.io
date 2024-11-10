@@ -317,12 +317,12 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
-      layout: home
+      layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      #read_time: true
+      #comments: # true
+      #share: true
+      #related: true
