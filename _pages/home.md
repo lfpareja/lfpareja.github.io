@@ -16,6 +16,11 @@ header:
 ---
 I work in the Department of Marine and Coastal Sciences at Rutgers University. In Fall 2204, I co-teach Numerical Modeling of the Ocean and Atmosphere I (nMOA)
 
+---
+Ph.D. Physical Oceanography, Rutgers University
+M.S. Meteorology, Universidad Nacional de Colombia
+B.S. Environmental Engineering, Universidad de los Andes
+
 Read more about my academic research [here](https://google.com)
 
 My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
