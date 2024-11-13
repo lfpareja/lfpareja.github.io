@@ -21,12 +21,8 @@ Ph.D. Physical Oceanography, Rutgers University
 M.S. Meteorology, Universidad Nacional de Colombia
 B.S. Environmental Engineering, Universidad de los Andes
 
-Read more about my academic research [here](https://google.com)
+My CV can be found [here](https://lfpareja.github.io/assets/pareja_cv.pdf).
 
-My CV can be found [here](https://lfpareja.github.io/assets/pareja_CV).
-
-I an an Environmental Engineer, Meteorologist and Physical Oceanographer
 ---
-
 During postdocs at Davidson Laboratory and Rutgers University, I've researched the dynamics of river plumes, offshore wind, and marine boundary layers.
 
