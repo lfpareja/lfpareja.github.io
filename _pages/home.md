@@ -5,7 +5,7 @@ title: ""
 header:
 #  overlay_color: "#000"
 #  overlay_filter: "0.5"
-  overlay_image: /assets/images/header.jpeg
+#  overlay_image: /assets/images/header.jpeg
   #image: /assets/images/header.jpeg
 
 
@@ -23,7 +23,7 @@ B.S. Environmental Engineering, Universidad de los Andes
 
 Read more about my academic research [here](https://google.com)
 
-My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
+My CV can be found [here](https://lfpareja.github.io/assets/pareja_CV).
 
 I an an Environmental Engineer, Meteorologist and Physical Oceanographer
 ---
