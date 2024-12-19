@@ -2,17 +2,17 @@
 main:
   - title: "About Me"
     url: /docs/quick-start-guide/
-  - title: "Posts"
+  - title: "Research"
     url: /year-archive/
-  - title: "Categories"
+  - title: "Teaching"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
-    target: _blank
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "Pages"
+#    url: /page-archive/
+#  - title: "Collections"
+#    url: /collection-archive/
+#  - title: "External Link"
+#    url: https://google.com
+#    target: _blank
 
