@@ -19,12 +19,10 @@ I'm an Assistant Research Professor in the Department of Marine and Coastal Scie
 My research focuses on Coastal Ocean Dynamics and Air-Sea Interaction.
 
 ---
-Ph.D. Physical Oceanography, Rutgers University
-M.S. Meteorology, Universidad Nacional de Colombia
-B.S. Environmental Engineering, Universidad de los Andes
+- Ph.D. Physical Oceanography, Rutgers University
+- M.S. Meteorology, Universidad Nacional de Colombia
+- B.S. Environmental Engineering, Universidad de los Andes
 
 My CV can be found [here](https://lfpareja.github.io/assets/pareja_cv.pdf).
 
 ---
-During postdocs at Davidson Laboratory and Rutgers University, I've researched the dynamics of river plumes, offshore wind, and marine boundary layers.
-
