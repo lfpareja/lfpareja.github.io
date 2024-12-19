@@ -3,9 +3,9 @@ permalink: /
 title: ""
 #layout: single
 header:
-#  overlay_color: "#000"
-#  overlay_filter: "0.5"
-#  overlay_image: /assets/images/header.jpeg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/air-sea.jpeg
   #image: /assets/images/header.jpeg
 
 
