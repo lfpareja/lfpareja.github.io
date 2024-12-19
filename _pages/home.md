@@ -14,7 +14,9 @@ header:
 
 **I'm a physical oceanographer working on coastal ocean dynamics and air-sea interaction.**
 ---
-I work in the Department of Marine and Coastal Sciences at Rutgers University. In Fall 2204, I co-teach Numerical Modeling of the Ocean and Atmosphere I (nMOA)
+I'm an Assistant Research Professor in the Department of Marine and Coastal Sciences at Rutgers University. I co-teach Numerical Modeling of the Ocean and Atmosphere I (nMOA).
+
+My research focuses on Coastal Ocean Dynamics and Air-Sea Interaction.
 
 ---
 Ph.D. Physical Oceanography, Rutgers University
