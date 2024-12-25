@@ -5,7 +5,7 @@ main:
   - title: "About Me2"
     url: /docs/quick-start-guide/
   - title: "Research"
-    url: /year-archive/
+    url: /_pages/research.md
   - title: "Teaching"
     url: /categories/
 #  - title: "Tags"
