@@ -5,18 +5,19 @@ title: ""
 header:
 #  overlay_color: "#000"
 #  overlay_filter: "0.5"
-  overlay_image: /assets/images/air-sea.jpeg
-  #image: /assets/images/header.jpeg
+#  overlay_image: /assets/images/air-sea.jpeg
+   image: /assets/images/header.jpeg
 
 
 
 ---
 
-**I'm a Physical Oceanographer working on coastal ocean dynamics and air-sea interaction.**
+**I'm a Physical Oceanographer working on Coastal Ocean Dynamics and Air-Sea Interaction.**
 ---
+
 I'm an Assistant Research Professor in the Department of Marine and Coastal Sciences at Rutgers University. I co-teach Numerical Modeling of the Ocean and Atmosphere I (nMOA).
 
-My research focuses on Coastal Ocean Dynamics and Air-Sea Interaction.
+
 
 ---
 - Ph.D. Physical Oceanography, Rutgers University
