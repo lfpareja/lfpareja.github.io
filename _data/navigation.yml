@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /_pages/home.md  
   - title: "About Me"
     url: /docs/quick-start-guide/
   - title: "Research"
