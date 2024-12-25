@@ -24,6 +24,6 @@ I'm an Assistant Research Professor in the Department of Marine and Coastal Scie
 - M.S. Meteorology, Universidad Nacional de Colombia
 - B.S. Environmental Engineering, Universidad de los Andes
 
-My CV can be found [here](https://lfpareja.github.io/assets/pareja_cv.pdf).
+My CV can be found [here](assets/pareja_cv.pdf).
 
 ---
