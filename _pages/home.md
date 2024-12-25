@@ -12,7 +12,7 @@ header:
 
 ---
 
-**I'm a physical oceanographer working on coastal ocean dynamics and air-sea interaction.**
+**I'm a Physical Oceanographer working on coastal ocean dynamics and air-sea interaction.**
 ---
 I'm an Assistant Research Professor in the Department of Marine and Coastal Sciences at Rutgers University. I co-teach Numerical Modeling of the Ocean and Atmosphere I (nMOA).
 
