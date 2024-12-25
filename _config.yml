@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : ""
+title                    : "Fernando Pareja-Roman"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Fernando"
@@ -117,8 +117,9 @@ author:
   name             : "Fernando Pareja-Roman"
   avatar           : "/assets/images/bio.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Physical Oceanographer**"
-  location         : "New Brunswick, NJ"
+  location         : "New York, USA"
   email            :
+  github           : "lfparejar"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
