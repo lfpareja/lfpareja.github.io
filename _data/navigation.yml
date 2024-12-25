@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: /docs/quick-start-guide/  
-  - title: "About Me2"
+    url: /_pages/home.md  
+  - title: "About Me"
     url: /docs/quick-start-guide/
   - title: "Research"
     url: /_pages/research.md
