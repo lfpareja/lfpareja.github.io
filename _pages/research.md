@@ -25,9 +25,19 @@ For a sense of this of how this happens, check out some reflections on life at s
 
 <hr width="100%" size="10" noshade>
 
-## Upwelling and Marine Boundary Layer Winds
+## Upwelling Affects Offshore Wind Energy
 
-## The Dynamic Arctic
+Relatively cold, upwelling sea surface temperatures introduce horizontal and vertical temperature gradients that can shape the wind profile in the marine boundary layer. A case study I led showed that upwelling can modulate wind power generation by enhancing thermally driven sea breezes (Pareja-Roman, 2024b) (NJ Board of Public Utilities).
+
+
+## Modeling for U.S. Coast Guard Search and Rescue
+
+Helicopter Search and Rescue (SAR) relies on accurate modeling of ocean currents, but the introduction of offshore wind farms in the coastal ocean creates uncertainties in these estimates. I contribute to an interdisciplinary effort to evaluate the impact of wind farms on surface currents. The U.S. Coast Guard aims to use these insights to enhance their SAR mission (U.S. Coast Guard). 
+
+## Air-Sea Bulk Fluxes
+
+I develop and test coupled ocean-atmosphere-wave models (ROMS, WRF, SWAN, WW3) to study how wind-current and wave-current interactions influence coastal circulation, assessing model performance with Ocean Observatories Initiative (OOI) data. Previous modeling work I carried out also shows that shallow estuarine bathymetry can limit wind-wave development, altering air-sea drag and circulation during storms (Pareja-Roman et al., 2019) (NSF Coastal SEES; U.S. Geological Service).
+
 
 <figure >
     <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
