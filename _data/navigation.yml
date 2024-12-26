@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /home/  
+    url: https://lfpareja.github.io/  
   - title: "About me"
     url: /docs/quick-start-guide/
   - title: "Research"
