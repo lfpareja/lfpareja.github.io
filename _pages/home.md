@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /home/
 title: ""
 #layout: single
 header:
