@@ -15,7 +15,7 @@ header:
 **I'm a Physical Oceanographer working on Coastal Ocean Dynamics and Air-Sea Interaction.**
 ---
 
-I'm an Assistant Research Professor in the Department of Marine and Coastal Sciences at Rutgers University. I co-teach Numerical Modeling of the Ocean and Atmosphere I (nMOA).
+I'm an Assistant Research Professor in the Department of Marine and Coastal Sciences at Rutgers University. I teach Numerical Modeling of the Ocean and Atmosphere.
 
 
 
@@ -24,6 +24,6 @@ I'm an Assistant Research Professor in the Department of Marine and Coastal Scie
 - M.S. Meteorology, Universidad Nacional de Colombia
 - B.S. Environmental Engineering, Universidad de los Andes
 
-My CV can be found [here](assets/pareja_cv.pdf).
+My CV can be found [here](assets/pareja_CV.pdf).
 
 ---
