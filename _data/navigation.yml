@@ -5,7 +5,7 @@ main:
   - title: "About Me"
     url: /docs/quick-start-guide/
   - title: "Research"
-    url: /research.md
+    url: /research/
   - title: "Teaching"
     url: /categories/
 #  - title: "Tags"
