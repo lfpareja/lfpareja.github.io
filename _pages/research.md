@@ -6,7 +6,7 @@ header:
   #overlay_color: "#000"
   #overlay_filter: "0.5"
   #overlay_image: /assets/images/serm_north.jpg
-  overlay_image:  /assets/images/grn_nordic.png
+  #overlay_image:  /assets/images/grn_nordic.png
 
 toc: true
 ---
