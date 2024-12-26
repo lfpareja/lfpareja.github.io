@@ -24,6 +24,9 @@ For a sense of this of how this happens, check out some reflections on life at s
 <br>
 
 <hr width="100%" size="10" noshade>
+
+## Upwelling and Marine Boundary Layer Winds
+
 ## The Dynamic Arctic
 
 <figure >
